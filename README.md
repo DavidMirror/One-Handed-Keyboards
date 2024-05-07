@@ -1,7 +1,7 @@
 # One-Handed-Keyboards
 
 ## Commercial
-- [FrogPad](http://frogpad.com/) (see also )
+- [FrogPad](http://frogpad.com/) (see also [FrogPad-Like](#frogpad-like)
 - [Twiddler](https://www.mytwiddler.com/)
 - [Matias Half Keyboard](https://matias.store/products/half-keyboard)
 - [Maltron Single Hand Keyboards](https://www.maltron.com/store/p19/Maltron_Single_Hand_Keyboards_-_US_English.html)
@@ -38,17 +38,17 @@ two-handed ARTSEY/ardux-like (either or both hands can be used)
 - [juni](https://wiki.xxiivv.com/site/juni.html)
 	- [Hardware](https://learn.pimoroni.com/product/keybow)
 - SouthPawEngineer
-	- [Onehand] (https://www.reddit.com/r/ErgoMechKeyboards/comments/s8w4md/onehand_a_creatively_named_accessible_keyboard/)
- 	- [Two handed boards] (https://www.reddit.com/r/ErgoMechKeyboards/comments/si320r/two_board_concepts_that_minimize_finger_movement/)
-- [BLE Morse keyboard] (https://kbd.news/BLE-Morse-keyboard-2364.html)
-	- [Hardware] (https://github.com/mikeysklar/ble-morsecode-neokey)
- 	- [morsePico] (https://github.com/Crysknife007/morsePico/blob/main/code.py) 
+	- [Onehand](https://www.reddit.com/r/ErgoMechKeyboards/comments/s8w4md/onehand_a_creatively_named_accessible_keyboard/)
+ 	- [Two handed boards](https://www.reddit.com/r/ErgoMechKeyboards/comments/si320r/two_board_concepts_that_minimize_finger_movement/)
+- [BLE Morse keyboard](https://kbd.news/BLE-Morse-keyboard-2364.html)
+	- [Hardware](https://github.com/mikeysklar/ble-morsecode-neokey)
+ 	- [morsePico](https://github.com/Crysknife007/morsePico/blob/main/code.py) 
 - Mirrored
 	- [Mist](https://kbd.news/One-handed-Mist-1203.html)
 		- [Hardware GitHub](https://github.com/defiant00/mist)
 		- [Software GitHub (Soar)](https://github.com/defiant00/soar)
-	- FrogPad-like
+	- <a id="frogpad-like"></a>FrogPad-like
  		- [ScottoFrog](https://github.com/joe-scotto/scottokeebs/tree/main/ScottoFrog)
 			- [Building](https://scottokeebs.com/blogs/macropads/scottofrog-handwired-macropad)
 			- [Video](https://www.youtube.com/watch?v=HrTswyP4kDI&t=302s)
-   		- [GeckoPad] (https://github.com/geckom/GeckoPad) 	 
+   		- [GeckoPad](https://github.com/geckom/GeckoPad) 	 
